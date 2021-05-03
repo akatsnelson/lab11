@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/akatsnelson/Projects/CHSE/laba11 Select CMakeLists.txt
